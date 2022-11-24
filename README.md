@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MomcilovN
+- 👋 Hi, I’m Momcilovic Nina
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on UI-UX design
